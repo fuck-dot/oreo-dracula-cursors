@@ -15,7 +15,7 @@ basically u just copy the cursors you want to /usr/share/icons/
 
 then you can optionally remove the oreo-dracula-cursors folder because you don't rlly need it anymore
 
-```rm -r oreo-dracula-cursors```
+```rm -rf oreo-dracula-cursors```
 
 
 # installation only for u UwU
@@ -27,7 +27,7 @@ same deal as above but you copy them to ~/.icons/
 
 then you can optionally remove the oreo-dracula-cursors folder because you don't rlly need it anymore
 
-```rm -r oreo-dracula-cursors```
+```rm -rf oreo-dracula-cursors```
 
 
 # compile the cursors yourself or costumize something
