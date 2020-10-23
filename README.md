@@ -10,6 +10,7 @@ we got trans pride with a white shadow, trans pride with a black shadow, we got 
 basically u just copy the cursors you want to /usr/share/icons/
 
 ```git clone https://github.com/fuck-dot/oreo-dracula-cursors.git```
+
 ```sudo cp -r oreo-dracula-cursors/cursors/* /usr/share/icons/ ```
 
 then you can optionally remove the oreo-dracula-cursors folder because you don't rlly need it anymore
@@ -21,6 +22,7 @@ then you can optionally remove the oreo-dracula-cursors folder because you don't
 same deal as above but you copy them to ~/.icons/
 
 ```git clone https://github.com/fuck-dot/oreo-dracula-cursors.git```
+
 ```cp -r oreo-dracula-cursors/cursors/* ~/.icons/```
 
 then you can optionally remove the oreo-dracula-cursors folder because you don't rlly need it anymore
