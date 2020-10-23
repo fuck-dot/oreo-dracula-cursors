@@ -36,3 +36,7 @@ follow the instructions on [the oreo cursors github] (https://github.com/Souravg
 
 # uwu
 (=^ェ^=)
+
+
+# warning!
+this is a direct attack on [oreo-nord-cursors](https://github.com/0jdxt/oreo-nord-cursors)
