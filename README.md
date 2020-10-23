@@ -1,7 +1,7 @@
 # oreo-dracula-cursors
 i compiled this cursor for you senpaiiii~ 😳
 
-this is a version of the (really pretty) [oreo cursors](https://github.com/Souravgoswami/oreo-cursors#generate-user-defined-colours-and-sizes-) modified to fit the [dracula](https://draculatheme.com/) color theme, including a few versions inspired by queer pride flags (they're not very good though)
+this is a version of the (really pretty) [oreo cursors](https://github.com/Souravgoswami/oreo-cursors#generate-user-defined-colours-and-sizes-), modified to fit the [dracula](https://draculatheme.com/) color theme, including a few versions inspired by queer pride flags (they're not very good though)
 
 we got trans pride with a white shadow, trans pride with a black shadow, we got nb pride, we have ace pride, lesbians, bisexuals, pansexuals hell yeah
 
