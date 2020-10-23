@@ -31,7 +31,7 @@ then you can optionally remove the oreo-dracula-cursors folder because you don't
 
 
 # compile the cursors yourself or costumize something
-follow the instructions on [the oreo cursors github] (https://github.com/Souravgoswami/oreo-cursors#generate-user-defined-colours-and-sizes-), except use the colours.config file this repo instead of theirs (because it is much better and cooler thankyouverymuch)
+follow the instructions on [the oreo cursors github](https://github.com/Souravgoswami/oreo-cursors#generate-user-defined-colours-and-sizes-), except use the colours.config file this repo instead of theirs (because it is much better and cooler thankyouverymuch)
 
 
 # uwu
