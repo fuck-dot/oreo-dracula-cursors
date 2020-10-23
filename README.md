@@ -8,20 +8,16 @@ we got trans pride with a white shadow, trans pride with a black shadow, we got 
 
 # installation for every user
 basically u just copy the cursors you want to /usr/share/icons/
-
-```git clone https://github.com/fuck-dot/oreo-dracula-cursors.git
-sudo cp -r oreo-dracula-cursors/cursors/* /usr/share/icons/ 
-```
+```git clone https://github.com/fuck-dot/oreo-dracula-cursors.git```
+```sudo cp -r oreo-dracula-cursors/cursors/* /usr/share/icons/ ```
 then you can optionally remove the oreo-dracula-cursors folder because you don't rlly need it anymore
 ```rm -r oreo-dracula-cursors```
 
 
 # installation only for u UwU
 same deal as above but you copy them to ~/.icons/
-
-```git clone https://github.com/fuck-dot/oreo-dracula-cursors.git
-cp -r oreo-dracula-cursors/cursors/* ~/.icons/
-```
+```git clone https://github.com/fuck-dot/oreo-dracula-cursors.git```
+```cp -r oreo-dracula-cursors/cursors/* ~/.icons/```
 then you can optionally remove the oreo-dracula-cursors folder because you don't rlly need it anymore
 ```rm -r oreo-dracula-cursors```
 
