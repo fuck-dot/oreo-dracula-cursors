@@ -5,6 +5,7 @@ this is a version of the (really pretty) [oreo cursors](https://github.com/Soura
 
 we got trans pride with a white shadow, trans pride with a black shadow, we got nb pride, we have ace pride, lesbians, bisexuals, pansexuals hell yeah
 
+this repo is also on [tildegit.org](https://tildegit.org/zoe/oreo-dracula-cursors.git)
 
 # installation for every user
 basically u just copy the cursors you want to /usr/share/icons/
